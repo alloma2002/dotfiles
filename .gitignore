@@ -22,3 +22,13 @@ src/
 *history*
 *.key
 *.token
+*password*
+*secret*
+*credential*
+*auth*
+*.db
+*.sqlite
+.env
+.env.*
+*.ovpn
+*.conf
