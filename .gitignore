@@ -12,3 +12,13 @@
 
 pkg/
 src/
+
+
+# --- Seguridad Titix ---
+.zsh_history
+.bash_history
+.python_history
+.ssh/
+*history*
+*.key
+*.token
